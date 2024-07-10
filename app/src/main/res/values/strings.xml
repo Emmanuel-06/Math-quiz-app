@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CardsFlash</string>
+    <string name="score">Score: %d/10</string>
+</resources>
