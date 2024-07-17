@@ -18,5 +18,6 @@ here are some screenshots of the app
 ![Screenshot_20240710_170248](https://github.com/Emmanuel-06/Math-quiz-app/assets/99341351/5b49ef9a-cc62-4e5c-999a-7d5ed316e4c5)
 
 -----------------------------
+----------------------------
 
 
