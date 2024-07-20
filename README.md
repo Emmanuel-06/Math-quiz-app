@@ -9,8 +9,3 @@ The app features;
 Some functionalities of the app are the following; 
 a user cannot submit an empty Text Field, the Text Field highlights in red to notify the user to either click the skip button to go to the next randomly generated arithmetic expression or fill in their answer.
 
-another randomly generated arithmetic expression is shown when the user clicks the skip button.
------------------------------
-----------------------------
-
-
